@@ -1,0 +1,82 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "id": "adminTitle",
+      "size": "Large",
+      "weight": "Bolder",
+      "text": "Admin settings"
+    },
+    {
+      "type": "TextBlock",
+      "id": "tpUrl",
+      "weight": "Bolder",
+      "text": "TargetProcess Url"
+    },
+    {
+      "type": "Input.Text",
+      "id": "tpSetUrl",
+      "title": "New Input.ToggleUrl",
+      "placeholder": "https://instarea.tpondemand.com/"
+    },
+    //{
+    //  "type": "TextBlock",
+    //  "id": "projectNames",
+    //  "weight": "Bolder",
+    //  "text": "Project Names"
+    //},
+    //{
+    //  "type": "Input.Text",
+    //  "id": "projectSetNames",
+    //  "title": "New Input.ToggleName",
+    //  "placeholder": "Marketlocator Slisor ExtraVyhody..."
+    //},
+    //{
+    //  "type": "TextBlock",
+    //  "id": "projectId",
+    //  "weight": "Bolder",
+    //  "text": "Project Id's"
+    //},
+    //{
+    //  "type": "Input.Text",
+    //  "id": "projectSetId",
+    //  "title": "New Input.ToggleId",
+    //  "placeholder": "254 355 477..."
+    //},
+    {
+      "type": "TextBlock",
+      "id": "adminRights",
+      "weight": "Bolder",
+      "text": "Promote to admin"
+    },
+    {
+      "type": "Input.Text",
+      "id": "adminSetRights",
+      "title": "New Input.ToggleAdmin",
+      "placeholder": "Filip Kaduch | Instarea"
+    },
+  ],
+    
+      //"type": "ActionSet",
+      //"id": "submitSettings",
+      "actions": [
+        {
+          "type": "Action.Submit",
+          "id": "submitSettingsButton",
+          "title": "Submit",
+          "data": {
+            "id": "1234567890"
+          },
+          "requiredInputs": [
+            "tpSetUrl",
+            "projectSetNames",
+            "projectSetId"
+          ]
+        }
+      ],
+    
+  
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0"
+}

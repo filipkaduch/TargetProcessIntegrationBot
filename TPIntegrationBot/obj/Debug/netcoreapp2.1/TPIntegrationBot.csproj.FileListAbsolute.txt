@@ -1,0 +1,15 @@
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\obj\Debug\netcoreapp2.1\TPIntegrationBot.csprojAssemblyReference.cache
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\obj\Debug\netcoreapp2.1\TPIntegrationBot.csproj.CoreCompileInputs.cache
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\obj\Debug\netcoreapp2.1\TPIntegrationBot.RazorAssemblyInfo.cache
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\obj\Debug\netcoreapp2.1\TPIntegrationBot.RazorAssemblyInfo.cs
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\obj\Debug\netcoreapp2.1\TPIntegrationBot.AssemblyInfoInputs.cache
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\obj\Debug\netcoreapp2.1\TPIntegrationBot.AssemblyInfo.cs
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\bin\Debug\netcoreapp2.1\TPIntegrationBot.deps.json
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\bin\Debug\netcoreapp2.1\TPIntegrationBot.runtimeconfig.json
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\bin\Debug\netcoreapp2.1\TPIntegrationBot.runtimeconfig.dev.json
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\bin\Debug\netcoreapp2.1\TPIntegrationBot.dll
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\bin\Debug\netcoreapp2.1\TPIntegrationBot.pdb
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\obj\Debug\netcoreapp2.1\TPIntegrationBot.RazorTargetAssemblyInfo.cache
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\obj\Debug\netcoreapp2.1\TPIntegrationBot.dll
+C:\Users\fkaduch\source\repos\TPIntegrationBot\TPIntegrationBot\obj\Debug\netcoreapp2.1\TPIntegrationBot.pdb
